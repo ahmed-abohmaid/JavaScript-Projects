@@ -6,8 +6,8 @@
 
 ## ⚡About App⚡:
 
-![alt text](./assets/_01_.png)
-![alt text](./assets/_02_.png)
+![alt text](./assets/_01.png)
+![alt text](./assets/_02.png)
 
 ---
 
