@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡To-Do⚡</h1>
 
-## Live : [Progress](https://ahmed-abohmaid.github.io/JavaScript-Projects/To-Do/)
+## Live : [To-Do](https://ahmed-abohmaid.github.io/JavaScript-Projects/To-Do/)
 
 ---
 
